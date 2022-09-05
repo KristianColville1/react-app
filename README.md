@@ -1,1 +1,3 @@
-# react-app
+# React App
+
+This is my first react app.
