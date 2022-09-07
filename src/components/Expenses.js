@@ -1,5 +1,5 @@
 import ExpenseItem from "./ExpenseItem";
-import "./ExpenseData.css"
+import "./Expenses.css"
 
 function ExpenseData(props) {
   const expenses = props.data
